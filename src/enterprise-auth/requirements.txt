@@ -1,6 +1,8 @@
-flask==2.3.3
-psycopg2-binary==2.9.7
-sqlalchemy==2.0.21
-pydantic==2.4.2
+flask==2.0.3
+flask-restx==1.1.0
+werkzeug==2.3.7
+psycopg2-binary>=2.9.9
+sqlalchemy>=2.0.40
+pydantic[emails]>=2.5.0
 bcrypt==4.0.1
 python-dotenv==1.0.0
